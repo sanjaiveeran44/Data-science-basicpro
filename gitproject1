@@ -1,0 +1,173 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "b2d0417b-a467-497e-ae25-246d7b652756",
+   "metadata": {},
+   "source": [
+    "#Data Science Basics"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a7db714e-3976-4c7f-985f-72bfb67979b1",
+   "metadata": {},
+   "source": [
+    "# Introduction to Data Science"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "65285769-dfa9-4723-9928-147939a3324a",
+   "metadata": {},
+   "source": [
+    "Data Science is a field that combines programming, mathematics, and domain expertise to extract insights from data."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "996db434-1fb8-42c4-bffb-efc3d897b4d2",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are:\n",
+    "\n",
+    "1. Python\n",
+    "2. R\n",
+    "3. SQL\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9bb3972c-50d4-4035-8c8b-5085980bb1cd",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries by Data Scientists include:\n",
+    "\n",
+    "1. Pandas\n",
+    "2. NumPy\n",
+    "3. Matplotlib\n",
+    "4. Seaborn\n",
+    "5. Scikit-learn"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7ed9d445-591f-4070-8b6b-5978d4ace830",
+   "metadata": {},
+   "source": [
+    "| Tool Name    | Category       |\n",
+    "|--------------|----------------|\n",
+    "| Jupyter      | Notebook       |\n",
+    "| TensorFlow   | Deep Learning  |\n",
+    "| Pandas       | Data Analysis  |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "da90f986-6c88-4a72-a4fe-2676067949da",
+   "metadata": {},
+   "source": [
+    "### Introduction to Arithmetic Expressions\n",
+    "In this section, we will demonstrate basic arithmetic operations in Python."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "ed8f7531-3b70-4022-8ea8-b7ae5577dca2",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "25"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a = 5\n",
+    "b = 3\n",
+    "result = (a*b)+10\n",
+    "result"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "3ccffb3a-8cd8-43c6-9033-75f9ff1b8504",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2.0"
+      ]
+     },
+     "execution_count": 12,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#converts minutes to hours\n",
+    "minutes=120\n",
+    "hours=minutes/60\n",
+    "hours"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7fa215eb-6566-4fc2-a586-d89249ec6c0b",
+   "metadata": {},
+   "source": [
+    "*Objectives*\n",
+    "\n",
+    "- Understand the importance of data cleaning.\n",
+    "- Learn basic operations in Python.\n",
+    "- Explore machine learning concepts."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1df20f27-bce9-4e7d-b459-b770a86fe249",
+   "metadata": {},
+   "source": [
+    "## Author \n",
+    "S Sanjaiveeran "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0aa0a4dd-60d0-42b2-bbda-ecc51ceb7f74",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
